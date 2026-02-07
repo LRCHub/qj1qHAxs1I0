@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WAVE",
+  "base_artist": "96猫",
+  "createdAt": "2026-02-07T12:56:45.038357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Wave (Intro)",
+      "artist": "Keith Urban",
+      "has_synced": false,
+      "path": "select/01_My_Wave_(Intro)_Keith_Urban.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wave (Xavi & Gi Version)",
+      "artist": "AMBER feat. LUNA & Xavi & Gi",
+      "has_synced": true,
+      "path": "select/02_Wave_(Xavi_&_Gi_Version)_AMBER_feat._LUNA_&_Xavi_&_Gi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wave (Xavi & Gi Version)",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/03_Wave_(Xavi_&_Gi_Version)_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Second Wave",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/04_Second_Wave_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ride The Wave",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/05_Ride_The_Wave_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tidal Wave",
+      "artist": "Longwave",
+      "has_synced": true,
+      "path": "select/06_Tidal_Wave_Longwave.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Cheery Wave From Stranded Youngsters - Third Eye Foundation Tet Offensive Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/07_A_Cheery_Wave_From_Stranded_Youngsters_-_Third_Eye_Foundation_Tet_Offensive_Remi_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Another Wave from You",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/08_Another_Wave_from_You_M83.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do You Want New Wave or Do You Want the Truth",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/09_Do_You_Want_New_Wave_or_Do_You_Want_the_Truth_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No New Wave No Fun",
+      "artist": "Mclusky",
+      "has_synced": true,
+      "path": "select/10_No_New_Wave_No_Fun_Mclusky.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Suddenly There Is a Tidal Wave",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/11_Suddenly_There_Is_a_Tidal_Wave_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(New Wave) Polly (BBC Mark Goodier Session)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/12_(New_Wave)_Polly_(BBC_Mark_Goodier_Session)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(New Wave) Polly",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/13_(New_Wave)_Polly_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Say Hello Wave Goodbye",
+      "artist": "Nouvelle Vague",
+      "has_synced": false,
+      "path": "select/14_Say_Hello_Wave_Goodbye_Nouvelle_Vague.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wave Ya Hand",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/15_Wave_Ya_Hand_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Errbody Wave",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/16_Errbody_Wave_Juicy_J.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WAVE",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/pl_01_WAVE_96猫.txt"
+    }
+  ]
+}
